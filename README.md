@@ -7,7 +7,11 @@ to start with a .
 type DONE all uppercase to finish your initail life form i.e.
 
 ?.  **
+
 ?. * **
+
 ?******
+
 ?.  **
+
 ?DONE
